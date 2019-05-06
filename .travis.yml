@@ -1,0 +1,6 @@
+language: python
+python:
+  - 3.6
+install:
+  - pip install pytest
+script: python -m pytest tests/test_travis_ci.py 
