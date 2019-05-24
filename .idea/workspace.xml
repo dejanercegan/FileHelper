@@ -123,7 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.probni">
+  <component name="RunManager" selected="Python.file_helper">
     <configuration name="file_helper" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="filehelper" />
       <option name="INTERPRETER_OPTIONS" value="" />
