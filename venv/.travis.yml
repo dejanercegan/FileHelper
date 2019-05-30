@@ -3,4 +3,4 @@ python:
   - 3.6
 install:
   - pip install pytest
-script: python -m pytest tests/test_file_helper.py
+script: python -m pytest test_file_helper.py

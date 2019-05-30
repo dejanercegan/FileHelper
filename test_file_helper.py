@@ -1,4 +1,9 @@
-import scripts.file_helper as file_helper
+import file_helper
 
-def test_abspath():
-    assert
+def test_testdir():
+    """
+
+    :return:
+    """
+    filelist = file_helper.listDir("test_dir")
+    assert (filelist == ['file2.txt', 'file1.txt'])
